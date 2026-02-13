@@ -1,3 +1,3 @@
-module example.com/go-agg
+module github.com/iliamunaev/go-agg
 
-go 1.25.7
+go 1.25

@@ -1,1 +1,1 @@
-# HTTP-aggregator
+# go-aggregator
