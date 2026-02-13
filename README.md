@@ -5,3 +5,14 @@ In other words - instead of spawning `goroutines` the service demonstrates h
 
 Set of posts on Medium (in progress).
 
+## Usage
+
+### Clone:
+```bash
+git clone https://github.com/iliamunaev/go-agg.git
+cd cd go-agg
+```
+### Run
+```bash
+go run ./cmd/agg/main.go 
+```
